@@ -5,24 +5,24 @@ C:\> jord0.cmd
 ```
 
 **Systems thinker. AI orchestrator.**
-30 years across 20 disciplines — from Arctic icebreakers to neural networks.
+Three decades across 20 disciplines — from a Vic-20 to neural networks.
 
 ---
 
 ### The Through-Line
 
-Every system I've ever maintained — diesel electric plants, radio repeater networks, building automation, government AI infrastructure — was training data for the next one.
+Every system I've ever maintained — diesel electric plants, radio repeater networks, building automation, AI infrastructure — was training data for the next one.
 
 I don't write code. I **orchestrate intelligence**, combining three decades of domain knowledge with the most capable AI models ever built.
 
 ```
- 13  Wiring houses, learning electricity by touch
+  7  First program on a Vic-20 — BASIC, the beginning of everything
  18  Electronics technician — circuit analysis, signal theory
  22  BCIT Automation — PLCs, SCADA, industrial control
  25  Coast Guard marine engineer — icebreakers in the Arctic
- 30  RCMP radio tech — helicopter deployments on frozen mountaintops
- 35  RCMP DevOps — infrastructure at scale
- 40  RCMP AI developer — building BC's first government AI system
+ 30  Radio tech — helicopter deployments on frozen mountaintops
+ 35  DevOps engineer — infrastructure at scale
+ 40  AI developer — building BC's first government AI system
  now Building tools at the intersection of what's possible
 ```
 
@@ -62,7 +62,7 @@ philosophy  = "The medium changes. The discipline doesn't."
 | 8 | Network Engineering | Enterprise infrastructure |
 | 9 | DevOps | CI/CD, containerization, IaC |
 | 10 | Software-Defined Radio | Digital signal processing |
-| 11 | Cybersecurity | Federal security clearance |
+| 11 | Cybersecurity | Network defense, threat analysis |
 | 12 | System Administration | Linux, Windows Server |
 | 13 | Database Administration | SQL, time-series data |
 | 14 | AI/ML Engineering | Computer vision, NLP, RAG |
@@ -73,7 +73,7 @@ philosophy  = "The medium changes. The discipline doesn't."
 | 19 | Project Management | Multi-team coordination |
 | 20 | Leadership | Teams, training, mentorship |
 
-*365 sea days. Federal commendation. 94% Circuit Analysis. 100% Leadership.*
+*365 sea days. 94% Circuit Analysis. 100% Leadership.*
 
 </details>
 
