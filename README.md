@@ -17,12 +17,14 @@ I don't write code. I **orchestrate intelligence**, combining three decades of d
 
 ```
   7  First program on a Vic-20 — BASIC, the beginning of everything
- 18  Electronics technician — circuit analysis, signal theory
- 22  BCIT Automation — PLCs, SCADA, industrial control
- 25  Coast Guard marine engineer — icebreakers in the Arctic
- 30  Radio tech — helicopter deployments on frozen mountaintops
- 35  DevOps engineer — infrastructure at scale
- 40  AI developer — building BC's first government AI system
+ 14  Father's software company — Visual Basic, MS Access
+ 17  Apprentice electrician — learning electricity by touch
+ 21  Electronics technician — circuit analysis, signal theory
+ 28  BCIT Automation — PLCs, SCADA, industrial control
+ 33  Coast Guard marine engineer — icebreakers in the Arctic
+ 39  Radio tech — helicopter deployments on frozen mountaintops
+ 43  DevOps engineer — infrastructure at scale
+ 47  AI developer — building BC's first AI system
  now Building tools at the intersection of what's possible
 ```
 
