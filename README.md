@@ -81,4 +81,4 @@ philosophy  = "The medium changes. The discipline doesn't."
 
 ---
 
-<sub>*The medium changes. The discipline doesn't.* — BC, Canada</sub>
+<sub>*Build something weird.* — BC, Canada</sub>
